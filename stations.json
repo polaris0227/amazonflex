@@ -1,0 +1,3038 @@
+[
+  {
+    "name": "North America",
+    "countries": [
+      {
+        "name": "United States",
+        "cities": [
+          {
+            "name": "Akron",
+            "stations": [
+              {
+                "code": "CAK1",
+                "name": "Akron (CAK1) AMZL (290 E Exchange Street)"
+              }
+            ]
+          },
+          {
+            "name": "Allentown, PA",
+            "stations": [
+              {
+                "code": "C205",
+                "name": "Allentown (C205) -"
+              }
+            ]
+          },
+          {
+            "name": "Annapolis",
+            "stations": [
+              {
+                "code": "C161",
+                "name": "Annapolis (C161) - Whole Foods"
+              }
+            ]
+          },
+          {
+            "name": "Atlanta",
+            "stations": [
+              {
+                "code": "C018",
+                "name": "Atlanta Johns Creek (C018) - Whole Foods"
+              },
+              {
+                "code": "C019",
+                "name": "Atlanta Kennesaw (C019) - Whole Foods"
+              },
+              {
+                "code": "C020",
+                "name": "Atlanta Midtown (C020) - Whole Foods"
+              },
+              {
+                "code": "C200",
+                "name": "Atlanta Sandy Springs (C200) - Whole Foods"
+              },
+              {
+                "code": "C229",
+                "name": "Alpharetta (C229) -"
+              },
+              {
+                "code": "CGA2",
+                "name": "Atlanta Piedmont (CGA2) - Sprouts"
+              },
+              {
+                "code": "DAT1",
+                "name": "Smyrna (DAT1) AMZL (4800 Highlands Pkwy SE)"
+              },
+              {
+                "code": "DAT2",
+                "name": "Lawrenceville (DAT2)- Amazon.com"
+              },
+              {
+                "code": "FGA2",
+                "name": "Bolton - Fresh (FGA2)"
+              },
+              {
+                "code": "FTL9",
+                "name": "Duluth - Fresh (FTL9)"
+              },
+              {
+                "code": "RAT2",
+                "name": "North Atlanta (RAT2) - Restaurants"
+              },
+              {
+                "code": "RGA2",
+                "name": "Atlanta (RGA2) - Restaurants"
+              },
+              {
+                "code": "UGA2",
+                "name": "Bolton (UGA2)- Prime Now"
+              },
+              {
+                "code": "UGA3",
+                "name": "Lawrenceville (UGA3)- Prime Now"
+              }
+            ]
+          },
+          {
+            "name": "Austin",
+            "stations": [
+              {
+                "code": "C001",
+                "name": "Austin Centrum (C001) - Whole Foods"
+              },
+              {
+                "code": "C002",
+                "name": "Austin Downtown (C002) - Whole Foods"
+              },
+              {
+                "code": "C181",
+                "name": "Arbor Trails (C181) - Whole Foods"
+              },
+              {
+                "code": "C182",
+                "name": "Bee Caves (C182) - Whole Foods"
+              },
+              {
+                "code": "CTX3",
+                "name": "Austin Gateway (CTX3) - Sprouts"
+              },
+              {
+                "code": "DAU1",
+                "name": "Austin (DAU1) AMZL (4616 West Howard Lane)"
+              },
+              {
+                "code": "RAU1",
+                "name": "North Austin (RAU1) - Restaurants"
+              },
+              {
+                "code": "RTX2",
+                "name": "Austin (RTX2) - Restaurants"
+              },
+              {
+                "code": "UTX2",
+                "name": "Austin (UTX2)- Prime Now"
+              }
+            ]
+          },
+          {
+            "name": "Baltimore",
+            "stations": [
+              {
+                "code": "C048",
+                "name": "Baltimore Columbia (C048) - Whole Foods"
+              },
+              {
+                "code": "C091",
+                "name": "Baltimore Inner Harbor (C091) - Whole Foods"
+              },
+              {
+                "code": "DBA1",
+                "name": "Baltimore Highlands (DBA1) AMZL 86 Alco Place #98"
+              },
+              {
+                "code": "DBA2",
+                "name": "Hanover (DBA2)- Amazon.com"
+              },
+              {
+                "code": "RMD1",
+                "name": "Baltimore (RMD1) - Restaurants"
+              },
+              {
+                "code": "UMD1",
+                "name": "Canton (UMD1)- Prime Now"
+              }
+            ]
+          },
+          {
+            "name": "Baton Rouge",
+            "stations": [
+              {
+                "code": "DLB1",
+                "name": "Baton Rouge (DLB1)- Amazon.com"
+              }
+            ]
+          },
+          {
+            "name": "Birmingham, AL",
+            "stations": [
+              {
+                "code": "C170",
+                "name": "Mountain Brook (C170) - Whole Foods"
+              },
+              {
+                "code": "C180",
+                "name": "Pickup Store Hoover HVR (C180) - Whole Foods"
+              },
+              {
+                "code": "DBM2",
+                "name": "Birmingham (DBM2)- Amazon.com"
+              }
+            ]
+          },
+          {
+            "name": "Boise",
+            "stations": [
+              {
+                "code": "C144",
+                "name": "Boise (C144) - Whole Foods"
+              },
+              {
+                "code": "DID1",
+                "name": "Nampa (DID1)- Amazon.com"
+              }
+            ]
+          },
+          {
+            "name": "Boston",
+            "stations": [
+              {
+                "code": "C044",
+                "name": "Boston Fresh Pond (C044) - Whole Foods"
+              },
+              {
+                "code": "C046",
+                "name": "Boston Dedham (C046) - Whole Foods"
+              },
+              {
+                "code": "C047",
+                "name": "Boston Lynnfield (C047) - Whole Foods"
+              },
+              {
+                "code": "C051",
+                "name": "Boston South Weymouth (C051) - Whole Foods"
+              },
+              {
+                "code": "C052",
+                "name": "Boston Shawmut (C052) - Whole Foods"
+              },
+              {
+                "code": "C053",
+                "name": "Boston Westford (C053) - Whole Foods"
+              },
+              {
+                "code": "C093",
+                "name": "Boston Sudbury (C093) - Whole Foods"
+              },
+              {
+                "code": "C178",
+                "name": "Boston Medford (C178) - Whole Foods"
+              },
+              {
+                "code": "C189",
+                "name": "Boston Newtonville (C189) - Whole Foods"
+              },
+              {
+                "code": "C192",
+                "name": "Boston Bedford (C192) - Whole Foods"
+              },
+              {
+                "code": "C207",
+                "name": "Bedford New Hampshire (C207) -"
+              },
+              {
+                "code": "DBO1",
+                "name": "Everett (DBO1) AMZL (201 Beacham Street)"
+              },
+              {
+                "code": "DBO2",
+                "name": "Dedham (DBO2) AMZL (480 Sprague Street)"
+              },
+              {
+                "code": "DBO3",
+                "name": "Milford (DBO3) AMZL (12 Industrial Rd Milford)"
+              },
+              {
+                "code": "DBO6",
+                "name": "Nashua (DBO6)- Amazon.com"
+              },
+              {
+                "code": "FMA3",
+                "name": "Boston South End - Fresh (FMA3)"
+              },
+              {
+                "code": "FOS6",
+                "name": "Everett - Fresh (FOS6)"
+              },
+              {
+                "code": "UMA3",
+                "name": "Boston South End (UMA3)- Prime Now"
+              }
+            ]
+          },
+          {
+            "name": "Buffalo",
+            "stations": [
+              {
+                "code": "C083",
+                "name": "Buffalo (C083) - Whole Foods"
+              }
+            ]
+          },
+          {
+            "name": "Calgary",
+            "stations": [
+              {
+                "code": "DAA1",
+                "name": "Calgary (DAA1) AMZL (290144, Township Rd 261)"
+              }
+            ]
+          },
+          {
+            "name": "Cedar Rapids",
+            "stations": [
+              {
+                "code": "DIA1",
+                "name": "North Liberty (DIA1)- Amazon.com"
+              }
+            ]
+          },
+          {
+            "name": "Champaign-Peoria-Springfield, IL",
+            "stations": [
+              {
+                "code": "DIL1",
+                "name": "Champaign (DIL1)- Amazon.com"
+              }
+            ]
+          },
+          {
+            "name": "Charleston",
+            "stations": [
+              {
+                "code": "C171",
+                "name": "Charleston (C171) - Whole Foods"
+              },
+              {
+                "code": "DSC1",
+                "name": "Ladson (DSC1)- Amazon.com"
+              }
+            ]
+          },
+          {
+            "name": "Charlotte",
+            "stations": [
+              {
+                "code": "C123",
+                "name": "Charlotte Uptown Charlotte (C123) - Whole Foods"
+              },
+              {
+                "code": "C236",
+                "name": "Huntersville (C236) -"
+              },
+              {
+                "code": "DLT1",
+                "name": "Charlotte (DLT1) AMZL (3830 Parrott Drive)"
+              },
+              {
+                "code": "UNC1",
+                "name": "Charlotte (UNC1)- Prime Now"
+              }
+            ]
+          },
+          {
+            "name": "Chattanooga, TN",
+            "stations": [
+              {
+                "code": "C209",
+                "name": "Chattonooga (C209) -"
+              }
+            ]
+          },
+          {
+            "name": "Chicago",
+            "stations": [
+              {
+                "code": "C055",
+                "name": "Chicago Deerfield (C055) - Whole Foods"
+              },
+              {
+                "code": "C056",
+                "name": "Chicago Sauganash (C056) - Whole Foods"
+              },
+              {
+                "code": "C057",
+                "name": "Chicago Lincoln Park (C057) - Whole Foods"
+              },
+              {
+                "code": "C058",
+                "name": "Chicago Schaumburg (C058) - Whole Foods"
+              },
+              {
+                "code": "C059",
+                "name": "Chicago Orland Park (C059) - Whole Foods"
+              },
+              {
+                "code": "C061",
+                "name": "Chicago Schererville (C061) - Whole Foods"
+              },
+              {
+                "code": "C062",
+                "name": "Chicago Wheaton (C062) - Whole Foods"
+              },
+              {
+                "code": "C094",
+                "name": "Chicago Hyde Park (C094) - Whole Foods"
+              },
+              {
+                "code": "C129",
+                "name": "Chicago Elmhurst (C129) -"
+              },
+              {
+                "code": "C185",
+                "name": "Chicago Lakeview (C185) - Whole Foods"
+              },
+              {
+                "code": "C195",
+                "name": "Chicago Edgewater (C195) - Whole Foods"
+              },
+              {
+                "code": "DCH1",
+                "name": "McKinley Park (DCH1) AMZL (2801 S Western Av)"
+              },
+              {
+                "code": "DCH2",
+                "name": "Morton Grove (DCH2) AMZL (8290 North Austin)"
+              },
+              {
+                "code": "DCH3",
+                "name": "Lisle (DCH3) AMZL (4500 Western Ave)"
+              },
+              {
+                "code": "DCH4",
+                "name": "Mundelein (DCH4) AMZL (401 Terrace Dr.)"
+              },
+              {
+                "code": "DCH5",
+                "name": "Elgin (DCH5)- Amazon.com"
+              },
+              {
+                "code": "DIN2",
+                "name": "Gary IN (DIN2)- Amazon.com"
+              },
+              {
+                "code": "FIL1",
+                "name": "Goose Island - Fresh (FIL1)"
+              },
+              {
+                "code": "FIL2",
+                "name": "Wood Dale - Fresh (FIL2)"
+              },
+              {
+                "code": "RCH1",
+                "name": "North Chicago (RCH1) - Restaurants"
+              },
+              {
+                "code": "RIL1",
+                "name": "Chicago (RIL1) - Restaurants"
+              },
+              {
+                "code": "UIL1",
+                "name": "Goose Island (UIL1)- Prime Now"
+              }
+            ]
+          },
+          {
+            "name": "Cincinnati",
+            "stations": [
+              {
+                "code": "C003",
+                "name": "Cincinnati Hyde Park (C003) - Whole Foods"
+              },
+              {
+                "code": "C164",
+                "name": "Mason (C164) - Whole Foods"
+              },
+              {
+                "code": "CIN1",
+                "name": "Campus UCINN (CIN1) (AMZL 241 Calhoun St)"
+              },
+              {
+                "code": "DCN1",
+                "name": "Fairfield (DCN1) AMZL (4250, Port Union Road)"
+              },
+              {
+                "code": "UOH1",
+                "name": "North Cincinnati (UOH1)- Prime Now"
+              }
+            ]
+          },
+          {
+            "name": "Cleveland",
+            "stations": [
+              {
+                "code": "C162",
+                "name": "Cedar Center (C162) - Whole Foods"
+              },
+              {
+                "code": "C166",
+                "name": "Rocky River (C166) - Whole Foods"
+              },
+              {
+                "code": "DCL1",
+                "name": "Euclid (DCL1) AMZL (26555 Bluestone Blvd)"
+              }
+            ]
+          },
+          {
+            "name": "Colorado Springs",
+            "stations": [
+              {
+                "code": "C147",
+                "name": "Pikes Peak (C147) - Whole Foods"
+              },
+              {
+                "code": "DCS1",
+                "name": "Colorado Springs (DCS1)- Amazon.com"
+              }
+            ]
+          },
+          {
+            "name": "Columbia, SC",
+            "stations": [
+              {
+                "code": "C211",
+                "name": "Columbia Cross Hill (C211) -"
+              },
+              {
+                "code": "DSC2",
+                "name": "Columbia (DSC2)- Amazon.com"
+              }
+            ]
+          },
+          {
+            "name": "Columbus, OH",
+            "stations": [
+              {
+                "code": "C090",
+                "name": "Columbus Easton (C090) - Whole Foods"
+              },
+              {
+                "code": "C108",
+                "name": "Columbus West Lane (C108) - Whole Foods"
+              },
+              {
+                "code": "C204",
+                "name": "Columbus (C204) - Whole Foods"
+              },
+              {
+                "code": "DCM1",
+                "name": "Columbus (DCM1)- Amazon.com"
+              },
+              {
+                "code": "ROH2",
+                "name": "Columbus (ROH2) - Restaurants"
+              },
+              {
+                "code": "UOH2",
+                "name": "West Columbus (UOH2)"
+              }
+            ]
+          },
+          {
+            "name": "Dallas-Ft. Worth",
+            "stations": [
+              {
+                "code": "C004",
+                "name": "DFW Vickery Meadow (C004) - Whole Foods"
+              },
+              {
+                "code": "C005",
+                "name": "DFW Las Colinas (C005) - Whole Foods"
+              },
+              {
+                "code": "C132",
+                "name": "Dallas Ft Worth (C132) - Whole Foods"
+              },
+              {
+                "code": "C134",
+                "name": "Dallas Fairview (C134) - Whole Foods"
+              },
+              {
+                "code": "C230",
+                "name": "Colleyville (C230) -"
+              },
+              {
+                "code": "C234",
+                "name": "Highland Village (C234) -"
+              },
+              {
+                "code": "CTX1",
+                "name": "Dallas Northwest (CTX1) - Sally Beauty"
+              },
+              {
+                "code": "CTX2",
+                "name": "Dallas Knox / Henderson (CTX2) - Sally Beauty"
+              },
+              {
+                "code": "DDA1",
+                "name": "Farmers Branch (DDA1) AMZL (12401 Stemmons Fwy)"
+              },
+              {
+                "code": "DDA2",
+                "name": "Plano (DDA2) AMZL (3838 Miller Rd.)"
+              },
+              {
+                "code": "DDA3",
+                "name": "Fort Worth (DDA3) AMZL (4601 Gold Spike Dr.)"
+              },
+              {
+                "code": "DFW8",
+                "name": "Coppell (DFW8) AMZL (2700 Regent Blvd)"
+              },
+              {
+                "code": "FTX4",
+                "name": "Downtown Dallas - Fresh (FTX4)"
+              },
+              {
+                "code": "FTX7",
+                "name": "Fort Worth - Fresh (FTX7)"
+              },
+              {
+                "code": "RTX4",
+                "name": "Dallas (RTX4) - Restaurants"
+              },
+              {
+                "code": "UTX4",
+                "name": "Downtown Dallas (UTX4)- Prime Now"
+              },
+              {
+                "code": "UTX7",
+                "name": "Fort Worth (UTX7)- Prime Now"
+              }
+            ]
+          },
+          {
+            "name": "Dayton",
+            "stations": [
+              {
+                "code": "C110",
+                "name": "Dayton (C110) - Whole Foods"
+              }
+            ]
+          },
+          {
+            "name": "Denver",
+            "stations": [
+              {
+                "code": "C031",
+                "name": "Denver Westminster (C031) - Whole Foods"
+              },
+              {
+                "code": "C032",
+                "name": "Denver Belmar (C032) - Whole Foods"
+              },
+              {
+                "code": "C033",
+                "name": "Denver Hampden (C033) - Whole Foods"
+              },
+              {
+                "code": "C199",
+                "name": "Boulder Pearl (C199) - Whole Foods"
+              },
+              {
+                "code": "C233",
+                "name": "Highlands Ranch (C233) -"
+              },
+              {
+                "code": "DDE5",
+                "name": "Englewood (DDE5)- Amazon.com"
+              },
+              {
+                "code": "DEN5",
+                "name": "Aurora (DEN5) AMZL (19799 E. 36th Drive)"
+              },
+              {
+                "code": "FCO4",
+                "name": "Denver - Fresh (FCO4)"
+              },
+              {
+                "code": "UCO1",
+                "name": "Denver (UCO1)- Prime Now"
+              }
+            ]
+          },
+          {
+            "name": "Destin, FL",
+            "stations": [
+              {
+                "code": "C212",
+                "name": "Destin (C212) -"
+              }
+            ]
+          },
+          {
+            "name": "Detroit",
+            "stations": [
+              {
+                "code": "C041",
+                "name": "Detroit West Bloomfield (C041) - Whole Foods"
+              },
+              {
+                "code": "C042",
+                "name": "Detroit Rochester Hills (C042) - Whole Foods"
+              },
+              {
+                "code": "C043",
+                "name": "Detroit Birmingham (C043) - Whole Foods"
+              },
+              {
+                "code": "C131",
+                "name": "Detroit Allen (C131) - Whole Foods"
+              },
+              {
+                "code": "DDT1",
+                "name": "Hazel Park (DDT1) AMZL (1400 E 10 Mile Rd)"
+              },
+              {
+                "code": "DDT2",
+                "name": "Romulus (DDT2)- Amazon.com"
+              },
+              {
+                "code": "DTW5",
+                "name": "Brownstown (DTW5) AMZL 19991 Brownstown Center Dr"
+              }
+            ]
+          },
+          {
+            "name": "Fort Collins, CO",
+            "stations": [
+              {
+                "code": "C213",
+                "name": "Fort Collins (C213) -"
+              }
+            ]
+          },
+          {
+            "name": "Fort Myers",
+            "stations": [
+              {
+                "code": "C221",
+                "name": "North Naples (C221) -"
+              },
+              {
+                "code": "DFM2",
+                "name": "Fort Myers (DFM2)- Amazon.com"
+              }
+            ]
+          },
+          {
+            "name": "Fresno",
+            "stations": [
+              {
+                "code": "DFA2",
+                "name": "Fresno (DFA2)- Amazon.com"
+              }
+            ]
+          },
+          {
+            "name": "Gainesville",
+            "stations": [
+              {
+                "code": "DFL1",
+                "name": "Gainesville (DFL1)- Amazon.com"
+              }
+            ]
+          },
+          {
+            "name": "Grand Rapids-Kalamazoo",
+            "stations": [
+              {
+                "code": "DGR1",
+                "name": "Grand Rapids (DGR1)- Amazon.com"
+              }
+            ]
+          },
+          {
+            "name": "Greater Los Angeles Area",
+            "stations": [
+              {
+                "code": "C021",
+                "name": "Los Angeles Laguna Niguel (C021) - Whole Foods"
+              },
+              {
+                "code": "C022",
+                "name": "Los Angeles Irvine (C022) - Whole Foods"
+              },
+              {
+                "code": "C023",
+                "name": "Los Angeles Brea (C023) - Whole Foods"
+              },
+              {
+                "code": "C024",
+                "name": "Los Angeles Alamitos Bay (C024) - Whole Foods"
+              },
+              {
+                "code": "C025",
+                "name": "Los Angeles Torrance (C025) - Whole Foods"
+              },
+              {
+                "code": "C026",
+                "name": "Los Angeles Playa Vista (C026) - Whole Foods"
+              },
+              {
+                "code": "C027",
+                "name": "Los Angeles Downtown (C027) - Whole Foods"
+              },
+              {
+                "code": "C028",
+                "name": "Los Angeles Hastings Ranch (C028) - Whole Foods"
+              },
+              {
+                "code": "C118",
+                "name": "Los Angeles Porter Ranch (C118) - Whole Foods"
+              },
+              {
+                "code": "C121",
+                "name": "Los Angeles Thousand Oaks (C121) - Whole Foods"
+              },
+              {
+                "code": "C183",
+                "name": "Beverly Hills (C183) - Whole Foods"
+              },
+              {
+                "code": "C196",
+                "name": "Los Angeles Fairfax (C196) - Whole Foods"
+              },
+              {
+                "code": "C201",
+                "name": "Los Angeles Venice (C201) - Whole Foods"
+              },
+              {
+                "code": "CCA1",
+                "name": "Fairfax (CCA1) - Sprouts285"
+              },
+              {
+                "code": "DLA1",
+                "name": "Inglewood (DLA1) AMZL (900 West Florence Avenue)"
+              },
+              {
+                "code": "DLA2",
+                "name": "Anaheim (DLA2) AMZL (5650 Dolly Avenue)"
+              },
+              {
+                "code": "DLA3",
+                "name": "East Los Angeles (DLA3) AMZL 5829 Smithway Street"
+              },
+              {
+                "code": "DLA4",
+                "name": "San Fernando Valley (DLA4) AMZL 9031 N Lurline Ave"
+              },
+              {
+                "code": "DLA5",
+                "name": "Riverside (DLA5) AMZL (6250 Sycamore Canyon Blvd)"
+              },
+              {
+                "code": "DLA7",
+                "name": "Chino (DLA7) AMZL (15940 Euclid Ave)"
+              },
+              {
+                "code": "DLA8",
+                "name": "Hawthorne (DLA8) AMZL (2815 W El Segundo Blvd)"
+              },
+              {
+                "code": "DLA9",
+                "name": "Irvine (DLA9) AMZL (17871 Von Karman Avenue)"
+              },
+              {
+                "code": "DPS1",
+                "name": "Rosemead (DPS1) AMZL (4187 Temple City Blvd)"
+              },
+              {
+                "code": "DPS3",
+                "name": "Thousand Oaks (DPS3)- Amazon.com"
+              },
+              {
+                "code": "FCA2",
+                "name": "Redondo Beach - Fresh (FCA2)"
+              },
+              {
+                "code": "FCA3",
+                "name": "Santa Monica (FCA3)"
+              },
+              {
+                "code": "FCA4",
+                "name": "Irvine - Fresh (FCA4)"
+              },
+              {
+                "code": "FCA5",
+                "name": "North Los Angeles - Fresh (FCA5)"
+              },
+              {
+                "code": "FCX3",
+                "name": "Inglewood - Fresh (FCX3)"
+              },
+              {
+                "code": "HLA1",
+                "name": "HLA1 (Buena Park)"
+              },
+              {
+                "code": "RCA2",
+                "name": "Redondo Beach (RCA2) - Restaurants"
+              },
+              {
+                "code": "RCA3",
+                "name": "Santa Monica (RCA3) - Restaurants"
+              },
+              {
+                "code": "RCA4",
+                "name": "Irvine (RCA4) - Restaurants"
+              },
+              {
+                "code": "RCA5",
+                "name": "North Los Angeles (RCA5) - Restaurants"
+              },
+              {
+                "code": "RLA4",
+                "name": "Anaheim (RLA4) - Restaurants"
+              },
+              {
+                "code": "UCA2",
+                "name": "Redondo Beach (UCA2)"
+              },
+              {
+                "code": "UCA3",
+                "name": "Santa Monica (UCA3)"
+              },
+              {
+                "code": "UCA4",
+                "name": "Irvine (UCA4)"
+              },
+              {
+                "code": "UCA5",
+                "name": "North Los Angeles- Prime Now (UCA5)"
+              }
+            ]
+          },
+          {
+            "name": "Greater Seattle Area",
+            "stations": [
+              {
+                "code": "ASE1",
+                "name": "Bellevue ASE1-- Fresh"
+              },
+              {
+                "code": "BFI5",
+                "name": "Kent (BFI5) AMZL (20526 59th Place South)"
+              },
+              {
+                "code": "C087",
+                "name": "Seattle Bellevue (C087) - Whole Foods"
+              },
+              {
+                "code": "C089",
+                "name": "University Place (C089) - Whole Foods"
+              },
+              {
+                "code": "C101",
+                "name": "Seattle Interbay (C101) - Whole Foods"
+              },
+              {
+                "code": "C103",
+                "name": "Lynnwood (C103) - Whole Foods"
+              },
+              {
+                "code": "C115",
+                "name": "Seattle Redmond (C115) - Whole Foods"
+              },
+              {
+                "code": "C173",
+                "name": "Seattle Roosevelt (C173) - Whole Foods"
+              },
+              {
+                "code": "CWA5",
+                "name": "Seattle Mercer Island (CWA5) - New Seasons"
+              },
+              {
+                "code": "DSE2",
+                "name": "Georgetown (DSE2) AMZL (6705 E Marginal Way South)"
+              },
+              {
+                "code": "DSE4",
+                "name": "Everett (DSE4) AMZL (6611 Associated Blvd)"
+              },
+              {
+                "code": "DSE5",
+                "name": "Renton (DSE5) AMZL (1101 SW 16th St)"
+              },
+              {
+                "code": "DSE7",
+                "name": "Sumner (DSE7)- Amazon.com"
+              },
+              {
+                "code": "FFI6",
+                "name": "Kent Direct - Fresh (FFI6)"
+              },
+              {
+                "code": "FWA1",
+                "name": "Kirkland/Totem Lake - Fresh (FWA1)"
+              },
+              {
+                "code": "FWA2",
+                "name": "North Seattle - Fresh (FWA2)"
+              },
+              {
+                "code": "FWA3",
+                "name": "Georgetown - Fresh (FWA3)"
+              },
+              {
+                "code": "HBF1",
+                "name": "Kent (HBF1) AMZL (20526 59th Pl S)"
+              },
+              {
+                "code": "RSE1",
+                "name": "Lynnwood (RSE1) - Restaurants"
+              },
+              {
+                "code": "RSE2",
+                "name": "South Seattle (RSE2) - Restaurants"
+              },
+              {
+                "code": "RWA1",
+                "name": "Bellevue/Kirkland (RWA1) - Restaurants"
+              },
+              {
+                "code": "RWA2",
+                "name": "North Seattle (RWA2) - Restaurants"
+              },
+              {
+                "code": "RWA4",
+                "name": "Seattle (RWA4) - Restaurants"
+              },
+              {
+                "code": "UWA1",
+                "name": "Kirkland/Totem Lake - Prime Now (UWA1)"
+              },
+              {
+                "code": "UWA2",
+                "name": "North Seattle - Prime Now (UWA2)"
+              },
+              {
+                "code": "UWA4",
+                "name": "SoDo - Prime Now (UWA4)"
+              },
+              {
+                "code": "ZSE1",
+                "name": "North Seattle (ZSE1) AMZL (14333 Aurora Ave N)"
+              },
+              {
+                "code": "ZSE2",
+                "name": "Bellevue (ZSE2) AMZL (15350 Southeast 37th Street)"
+              }
+            ]
+          },
+          {
+            "name": "Greater Washington D.C. Area",
+            "stations": [
+              {
+                "code": "C086",
+                "name": "DC Ashburn (C086) - Whole Foods"
+              },
+              {
+                "code": "C098",
+                "name": "DC Fair Lakes (C098) - Whole Foods"
+              },
+              {
+                "code": "C099",
+                "name": "DC Friendship Heights (C099) - Whole Foods"
+              },
+              {
+                "code": "C102",
+                "name": "DC Kentlands (C102) - Whole Foods"
+              },
+              {
+                "code": "C104",
+                "name": "DC Pentagon City (C104) - Whole Foods"
+              },
+              {
+                "code": "C105",
+                "name": "DC Riverdale Park (C105) - Whole Foods"
+              },
+              {
+                "code": "C106",
+                "name": "DC Springfield (C106) - Whole Foods"
+              },
+              {
+                "code": "C109",
+                "name": "DC Logan Circle (C109) - Whole Foods"
+              },
+              {
+                "code": "C191",
+                "name": "Arlington Clarendon (C191) - Whole Foods"
+              },
+              {
+                "code": "C197",
+                "name": "DC H Street (C197) - Whole Foods"
+              },
+              {
+                "code": "DDC1",
+                "name": "Springfield VA (DDC1) AMZL 20789 Great Falls Plaza"
+              },
+              {
+                "code": "DDC2",
+                "name": "Rockville (DDC2) AMZL (861 Gude Dr, Rockville, MD)"
+              },
+              {
+                "code": "DDC3",
+                "name": "Springfield VA (DDC3) AMZL (5617 Industrial Dr.)"
+              },
+              {
+                "code": "DDC4",
+                "name": "Sterling (DDC4)- Amazon.com"
+              },
+              {
+                "code": "FMD1",
+                "name": "Canton - Fresh (FMD1)"
+              },
+              {
+                "code": "FVA1",
+                "name": "Springfield - Fresh (FVA1)"
+              },
+              {
+                "code": "RDC1",
+                "name": "Washington D.C. (RDC1) - Restaurants"
+              },
+              {
+                "code": "RVA1",
+                "name": "D.C. Metro (RVA1) - Restaurants"
+              },
+              {
+                "code": "UVA1",
+                "name": "Springfield (UVA1)- Prime Now"
+              }
+            ]
+          },
+          {
+            "name": "Greensboro",
+            "stations": [
+              {
+                "code": "C214",
+                "name": "Greensboro Friendly Plaza (C214) -"
+              },
+              {
+                "code": "C226",
+                "name": "Winston-Salem (C226) -"
+              },
+              {
+                "code": "ZLT1",
+                "name": "Greensboro (ZLT1) XPT (3511 S Holden Rd)"
+              },
+              {
+                "code": "ZLT2",
+                "name": "Greensboro (ZLT2) XPT (118 Stage Coach Trail)"
+              }
+            ]
+          },
+          {
+            "name": "Greenville-Spartanburg-Asheville",
+            "stations": [
+              {
+                "code": "C188",
+                "name": "Woodruff (C188) - Whole Foods"
+              },
+              {
+                "code": "C228",
+                "name": "Ashville Kenilworth (C228) -"
+              },
+              {
+                "code": "DSC3",
+                "name": "Greenville (DSC3)- Amazon.com"
+              }
+            ]
+          },
+          {
+            "name": "Hartford & New Haven",
+            "stations": [
+              {
+                "code": "C120",
+                "name": "Stamford Darien (C120) -"
+              },
+              {
+                "code": "C150",
+                "name": "Stamford Fairfield (C150) - Whole Foods"
+              },
+              {
+                "code": "C175",
+                "name": "Bishop's Corner (C175) - Whole Foods"
+              },
+              {
+                "code": "DBL1",
+                "name": "Bristol (DBL1)- Amazon.com"
+              }
+            ]
+          },
+          {
+            "name": "Houston",
+            "stations": [
+              {
+                "code": "C063",
+                "name": "Houston Sugar Land (C063) - Whole Foods"
+              },
+              {
+                "code": "C064",
+                "name": "Houston Hyde Park (C064) - Whole Foods"
+              },
+              {
+                "code": "C065",
+                "name": "Houston Champions (C065) - Whole Foods"
+              },
+              {
+                "code": "C066",
+                "name": "Houston Westchase (C066) - Whole Foods"
+              },
+              {
+                "code": "C242",
+                "name": "The Woodlands (C242) -"
+              },
+              {
+                "code": "DHO1",
+                "name": "Willowbrook (DHO1) AMZL (11720 N Gessner Rd,)"
+              },
+              {
+                "code": "DHO2",
+                "name": "Houston (DHO2)- Amazon.com"
+              },
+              {
+                "code": "HHO1",
+                "name": "Houston (HHO1)HeavyBulky 8120 Humble Westfield Rd"
+              },
+              {
+                "code": "RTX3",
+                "name": "Houston (RTX3) - Restaurants"
+              },
+              {
+                "code": "STX1",
+                "name": "Houston (STX1)- Amazon.com"
+              },
+              {
+                "code": "UTX3",
+                "name": "Northwest Houston (UTX3)- Prime Now"
+              }
+            ]
+          },
+          {
+            "name": "Huntsville, AL",
+            "stations": [
+              {
+                "code": "C215",
+                "name": "Huntsville (C215) -"
+              }
+            ]
+          },
+          {
+            "name": "Indianapolis",
+            "stations": [
+              {
+                "code": "C068",
+                "name": "Indianapolis Mile Square (C068) - Whole Foods"
+              },
+              {
+                "code": "C235",
+                "name": "Nora Indianapolis - (C235) -"
+              },
+              {
+                "code": "DIN1",
+                "name": "Indianapolis (DIN1) AMZL (5850 W 80th St)"
+              },
+              {
+                "code": "UIN1",
+                "name": "Westside Indy (UIN1)- Prime Now"
+              }
+            ]
+          },
+          {
+            "name": "Jackson, MS",
+            "stations": [
+              {
+                "code": "C216",
+                "name": "Jackson (C216) -"
+              }
+            ]
+          },
+          {
+            "name": "Jacksonville",
+            "stations": [
+              {
+                "code": "C151",
+                "name": "Jacksonville (C151) - Whole Foods"
+              },
+              {
+                "code": "DJX1",
+                "name": "Jacksonville (DJX1)AMZL11084 Cabot Commerce Circle"
+              }
+            ]
+          },
+          {
+            "name": "Kansas",
+            "stations": [
+              {
+                "code": "C149",
+                "name": "Kansas City (C149)"
+              },
+              {
+                "code": "DMC1",
+                "name": "Shawnee (DMC1) AMZL (4158 Powell Drive)"
+              }
+            ]
+          },
+          {
+            "name": "Kentucky",
+            "stations": [
+              {
+                "code": "C160",
+                "name": "Louisville (C160) - Whole Foods"
+              },
+              {
+                "code": "DKY1",
+                "name": "Louisville (DKY1) AMZL (7240 Global Drive)"
+              }
+            ]
+          },
+          {
+            "name": "Knoxville, TN",
+            "stations": [
+              {
+                "code": "C217",
+                "name": "Knoxville (C217) -"
+              },
+              {
+                "code": "DTN3",
+                "name": "Knoxville (DTN3)- Amazon.com"
+              }
+            ]
+          },
+          {
+            "name": "Las Vegas",
+            "stations": [
+              {
+                "code": "C116",
+                "name": "Las Vegas Blvd (C116) - Whole Foods"
+              },
+              {
+                "code": "C127",
+                "name": "Las Vegas Fort Apache (C127) - Whole Foods"
+              },
+              {
+                "code": "C169",
+                "name": "Las Vegas Tenaya (C169) - Whole Foods"
+              },
+              {
+                "code": "C176",
+                "name": "Las Vegas Henderson (C176) - Whole Foods"
+              },
+              {
+                "code": "DLV1",
+                "name": "Boulder Junction (DLV1) AMZL (3165 W. Sunset Road)"
+              },
+              {
+                "code": "HLS1",
+                "name": "Las Vegas (HLS1) AMZL (4410 Nexus Way)"
+              },
+              {
+                "code": "RNV1",
+                "name": "Las Vegas (RNV1) - Restaurants"
+              },
+              {
+                "code": "UNV1",
+                "name": "Paradise (UNV1)- Prime Now"
+              },
+              {
+                "code": "UNV2",
+                "name": "Paradise - UFF (UNV2)"
+              }
+            ]
+          },
+          {
+            "name": "Lexington, KY",
+            "stations": [
+              {
+                "code": "C218",
+                "name": "Lexington (C218) -"
+              },
+              {
+                "code": "DKY2",
+                "name": "Lexington (DKY2)- Amazon.com"
+              }
+            ]
+          },
+          {
+            "name": "Little Rock",
+            "stations": [
+              {
+                "code": "C208",
+                "name": "Little Rock Bowman (C208) -"
+              },
+              {
+                "code": "DLR1",
+                "name": "Little Rock (DLR1)- Amazon.com"
+              }
+            ]
+          },
+          {
+            "name": "Lubbock",
+            "stations": [
+              {
+                "code": "LBB1",
+                "name": "Lubbock (LBB1) AMZL (2407 9th Street)"
+              }
+            ]
+          },
+          {
+            "name": "Madison",
+            "stations": [
+              {
+                "code": "C136",
+                "name": "Madison (C136) - Whole Foods"
+              }
+            ]
+          },
+          {
+            "name": "Memphis",
+            "stations": [
+              {
+                "code": "C117",
+                "name": "Memphis Poplar Avenue (C117) - Whole Foods"
+              },
+              {
+                "code": "DTN2",
+                "name": "Memphis (DTN2)- Amazon.com"
+              }
+            ]
+          },
+          {
+            "name": "Miami-West Palm Beach",
+            "stations": [
+              {
+                "code": "C070",
+                "name": "Miami Boca Raton (C070) - Whole Foods"
+              },
+              {
+                "code": "C071",
+                "name": "Miami Dadeland (C071) - Whole Foods"
+              },
+              {
+                "code": "C072",
+                "name": "Miami Davie (C072) - Whole Foods"
+              },
+              {
+                "code": "C073",
+                "name": "Miami Downtown Miami (C073) - Whole Foods"
+              },
+              {
+                "code": "C074",
+                "name": "Miami Pembroke Pines (C074) - Whole Foods"
+              },
+              {
+                "code": "C075",
+                "name": "Miami West Palm Beach (C075) - Whole Foods"
+              },
+              {
+                "code": "C125",
+                "name": "North Miami (C125) - Whole Foods"
+              },
+              {
+                "code": "DMI2",
+                "name": "Miami Gardens (DMI2) AMZL (15600 NW 15th Ave)"
+              },
+              {
+                "code": "DMI3",
+                "name": "Virginia Gardens (DMI3) AMZL (3200 NW 67th Ave)"
+              },
+              {
+                "code": "DMI4",
+                "name": "Sunrise (DMI4)- Amazon.com"
+              },
+              {
+                "code": "FFL2",
+                "name": "Miami - Fresh (FFL2)"
+              },
+              {
+                "code": "FMI3",
+                "name": "Virginia Gardens (FMI3)"
+              },
+              {
+                "code": "HMI1",
+                "name": "Miami (HMI1) AMZL (1900 NW 132nd Pl)"
+              },
+              {
+                "code": "MIA5",
+                "name": "Doral (MIA5) AMZL (1900 NW 132nd Place)"
+              },
+              {
+                "code": "RFL1",
+                "name": "Miami (RFL1) - Restaurants"
+              },
+              {
+                "code": "RMI1",
+                "name": "Southwest Miami (RMI1) - Restaurants"
+              },
+              {
+                "code": "UFL2",
+                "name": "Miami Edgewater (UFL2)- Prime Now"
+              }
+            ]
+          },
+          {
+            "name": "Milwaukee",
+            "stations": [
+              {
+                "code": "C141",
+                "name": "Milwaukee Wauwatosa (C141) - Whole Foods"
+              },
+              {
+                "code": "DML1",
+                "name": "Milwaukee (DML1) AMZL (3935 West Mitchell St)"
+              },
+              {
+                "code": "DML2",
+                "name": "Sussex (DML2)- Amazon.com"
+              },
+              {
+                "code": "FWI1",
+                "name": "West Milwaukee - Fresh (FWI1)"
+              },
+              {
+                "code": "HMK1",
+                "name": "Kenosha (HMK1) AMZL (11211 Burlington Rd)"
+              },
+              {
+                "code": "UWI1",
+                "name": "West Milwaukee (UWI1)- Prime Now"
+              }
+            ]
+          },
+          {
+            "name": "Minneapolis",
+            "stations": [
+              {
+                "code": "C095",
+                "name": "Minneapolis Edina (C095) - Whole Foods"
+              },
+              {
+                "code": "C096",
+                "name": "Minneapolis Warehouse District(C096) - Whole Foods"
+              },
+              {
+                "code": "C097",
+                "name": "Minneapolis Union Park (C097) - Whole Foods"
+              },
+              {
+                "code": "C244",
+                "name": "Minneapolis Lake Calhoun (C244) -"
+              },
+              {
+                "code": "C264",
+                "name": "Minneapolis Woodbury (C264) -"
+              },
+              {
+                "code": "DMS1",
+                "name": "Eagan (DMS1) AMZL (2811 Beverley Rd)"
+              },
+              {
+                "code": "RMN1",
+                "name": "Minneapolis (RMN1) - Restaurants"
+              },
+              {
+                "code": "RMN2",
+                "name": "North Minneapolis (RMN2) - Restaurants"
+              },
+              {
+                "code": "UMN1",
+                "name": "Minneapolis (UMN1) - Prime Now"
+              }
+            ]
+          },
+          {
+            "name": "Mobile, AL",
+            "stations": [
+              {
+                "code": "C220",
+                "name": "Mobile (C220) -"
+              },
+              {
+                "code": "DBM3",
+                "name": "Mobile (DBM3)- Amazon.com"
+              }
+            ]
+          },
+          {
+            "name": "Montgomery, AL",
+            "stations": [
+              {
+                "code": "C219",
+                "name": "Montgomery (C219) -"
+              }
+            ]
+          },
+          {
+            "name": "Nashville",
+            "stations": [
+              {
+                "code": "BNA5",
+                "name": "Nashville (BNA5) AMZL (50 Airways Blvd)"
+              },
+              {
+                "code": "C114",
+                "name": "Nashville Green Hills (C114) - Whole Foods"
+              },
+              {
+                "code": "C237",
+                "name": "Franklin (C237) -"
+              },
+              {
+                "code": "DNA1",
+                "name": "Nashville (DNA1)- Amazon.com"
+              },
+              {
+                "code": "RTN1",
+                "name": "Nashville (RTN1) - Restaurants"
+              },
+              {
+                "code": "UTN1",
+                "name": "Nashville (UTN1)- Prime Now"
+              }
+            ]
+          },
+          {
+            "name": "New Jersey",
+            "stations": [
+              {
+                "code": "C078",
+                "name": "Closter Ridgewood Paramus (C078) - Whole Foods"
+              },
+              {
+                "code": "C119",
+                "name": "Closter (C119) - Whole Foods"
+              },
+              {
+                "code": "C154",
+                "name": "Newark (C154) - Whole Foods"
+              },
+              {
+                "code": "C155",
+                "name": "Madison Rose City (C155) - Whole Foods"
+              },
+              {
+                "code": "C157",
+                "name": "Newark West Orange (C157) - Whole Foods"
+              },
+              {
+                "code": "DEW1",
+                "name": "Moonachie NJ (DEW1) AMZL (2 Empire Boulevard)"
+              },
+              {
+                "code": "DEW2",
+                "name": "Elizabeth NJ (DEW2) AMZL (630 Sullivan Road)"
+              },
+              {
+                "code": "FNJ1",
+                "name": "Hoboken - Fresh (FNJ1)"
+              },
+              {
+                "code": "FWR6",
+                "name": "Avenel - Fresh (FWR6)"
+              }
+            ]
+          },
+          {
+            "name": "New Mexico",
+            "stations": [
+              {
+                "code": "C143",
+                "name": "Academy (C143) - Whole Foods"
+              }
+            ]
+          },
+          {
+            "name": "New Orleans",
+            "stations": [
+              {
+                "code": "C140",
+                "name": "New Orleans Veterans (C140) -Whole Foods"
+              },
+              {
+                "code": "DNO1",
+                "name": "New Orleans (DNO1)- Amazon.com"
+              }
+            ]
+          },
+          {
+            "name": "New York",
+            "stations": [
+              {
+                "code": "C035",
+                "name": "New York Chelsea (C035) - Whole Foods"
+              },
+              {
+                "code": "C040",
+                "name": "New York Columbus Circle (C040) - Whole Foods"
+              },
+              {
+                "code": "C045",
+                "name": "New York Tribeca (C045) - Whole Foods"
+              },
+              {
+                "code": "C049",
+                "name": "New York Union Square (C049) - Whole Foods"
+              },
+              {
+                "code": "C054",
+                "name": "New York Upper West Side (C054) -"
+              },
+              {
+                "code": "C076",
+                "name": "New York Bowery (C076) - Whole Foods"
+              },
+              {
+                "code": "C077",
+                "name": "New York Brooklyn (C077) - Whole Foods"
+              },
+              {
+                "code": "C079",
+                "name": "New York Harlem (C079) -"
+              },
+              {
+                "code": "C080",
+                "name": "Long Island Jericho (C080) - Whole Foods"
+              },
+              {
+                "code": "C081",
+                "name": "Long Island Lake Grove (C081) - Whole Foods"
+              },
+              {
+                "code": "C082",
+                "name": "Long Island Manhasset (C082) - Whole Foods"
+              },
+              {
+                "code": "C084",
+                "name": "New York Williamsburg (C084) - Whole Foods"
+              },
+              {
+                "code": "C130",
+                "name": "New York East 57th Street (C130) - Whole Foods"
+              },
+              {
+                "code": "C246",
+                "name": "Long Island Commack (C246) - Whole Foods"
+              },
+              {
+                "code": "DBK1",
+                "name": "Woodside (DBK1)- Amazon.com"
+              },
+              {
+                "code": "FFK9",
+                "name": "Bethpage - Fresh (FFK9)"
+              },
+              {
+                "code": "FKO1",
+                "name": "Maspeth - Fresh (FKO1)"
+              },
+              {
+                "code": "FNX1",
+                "name": "Brooklyn - Fresh (FNX1)"
+              },
+              {
+                "code": "JFK2",
+                "name": "Midtown Manhattan (JFK2)"
+              },
+              {
+                "code": "JFK7",
+                "name": "Midtown Manhattan (JFK7) - Bicyclist"
+              },
+              {
+                "code": "RBK1",
+                "name": "South Brooklyn - Restaurants"
+              },
+              {
+                "code": "RFK7",
+                "name": "Manhattan - Restaurants"
+              },
+              {
+                "code": "RFK8",
+                "name": "Upper Manhattan - Restaurants (Vehicles)"
+              },
+              {
+                "code": "RNY1",
+                "name": "Brooklyn - Restaurants"
+              },
+              {
+                "code": "UNY1",
+                "name": "Brooklyn (UNY1) - Vehicle"
+              }
+            ]
+          },
+          {
+            "name": "Oklahoma",
+            "stations": [
+              {
+                "code": "C137",
+                "name": "Oklahoma City (C137) - Whole Foods"
+              },
+              {
+                "code": "C139",
+                "name": "Tulsa (C139) - Whole Foods"
+              },
+              {
+                "code": "DOK1",
+                "name": "Oklahoma City (DOK1)- Amazon.com"
+              }
+            ]
+          },
+          {
+            "name": "Omaha",
+            "stations": [
+              {
+                "code": "C138",
+                "name": "Omaha Regency (C138) - Whole Foods"
+              },
+              {
+                "code": "DOM1",
+                "name": "Omaha (DOM1)- Amazon.com"
+              }
+            ]
+          },
+          {
+            "name": "Orlando",
+            "stations": [
+              {
+                "code": "C060",
+                "name": "Orlando Altamonte Springs (C060) - Whole Foods"
+              },
+              {
+                "code": "C069",
+                "name": "Orlando Bayhill (C069) - Whole Foods"
+              },
+              {
+                "code": "C159",
+                "name": "Orlando Winter Park North (C159) - Whole Foods"
+              },
+              {
+                "code": "DMO1",
+                "name": "Tangelo Park (DMO1) AMZL (7469 Kings Pointe Pkwy)"
+              },
+              {
+                "code": "MCO5",
+                "name": "Davenport (MCO5) AMZL (305 Deen Still Road)"
+              },
+              {
+                "code": "RFL4",
+                "name": "Orlando (RFL4) - Restaurants"
+              },
+              {
+                "code": "UFL4",
+                "name": "Orlando (UFL4)- Prime Now"
+              }
+            ]
+          },
+          {
+            "name": "Palm Desert, CA",
+            "stations": [
+              {
+                "code": "C222",
+                "name": "Palm Desert (C222) -"
+              },
+              {
+                "code": "ZLA3",
+                "name": "Palm Desert (ZLA3) XPT (40050 Harris Ln)"
+              }
+            ]
+          },
+          {
+            "name": "Philadelphia",
+            "stations": [
+              {
+                "code": "C036",
+                "name": "Philadelphia Jenkintown (C036) - Whole Foods"
+              },
+              {
+                "code": "C037",
+                "name": "Philadelphia Elam (C037) - Whole Foods"
+              },
+              {
+                "code": "C038",
+                "name": "Philadelphia Fairmount (C038) - Whole Foods"
+              },
+              {
+                "code": "C039",
+                "name": "Philadelphia Ellisburg (C039) - Whole Foods"
+              },
+              {
+                "code": "C092",
+                "name": "Philadelphia Plymouth Meeting (C092) - Whole Foods"
+              },
+              {
+                "code": "C163",
+                "name": "Philadelphia South Street (C163) - Whole Foods"
+              },
+              {
+                "code": "C190",
+                "name": "Wynnewood (C190) - Whole Foods"
+              },
+              {
+                "code": "C202",
+                "name": "Philadelphia Newton Square (C202) - Whole Foods"
+              },
+              {
+                "code": "C241",
+                "name": "Spring House (C241) -"
+              },
+              {
+                "code": "DEW4",
+                "name": "Langhorne (DEW4) AMZL (2251 Cabot Blvd)"
+              },
+              {
+                "code": "DEW8",
+                "name": "Bellmawr (DEW8)- Amazon.com"
+              },
+              {
+                "code": "DPH1",
+                "name": "Port Richmond (DPH1) AMZL (4219 Richmond Street)"
+              },
+              {
+                "code": "DPH2",
+                "name": "King of Prussia (DPH2) AMZL (500 American Ave.)"
+              },
+              {
+                "code": "FPA1",
+                "name": "Philadelphia - Fresh (FPA1)"
+              },
+              {
+                "code": "UPA1",
+                "name": "Philadelphia - Fresh (UPA1)"
+              }
+            ]
+          },
+          {
+            "name": "Phoenix",
+            "stations": [
+              {
+                "code": "C111",
+                "name": "Phoenix Camelback (C111) - Whole Foods"
+              },
+              {
+                "code": "C112",
+                "name": "Phoenix Chandler (C112) - Whole Foods"
+              },
+              {
+                "code": "C124",
+                "name": "Phoenix Scottsdale (C124) - Whole Foods"
+              },
+              {
+                "code": "C172",
+                "name": "Phoenix Tempe (C172) - Whole Foods"
+              },
+              {
+                "code": "C177",
+                "name": "Phoenix Paradise Valley (C177) - Whole Foods"
+              },
+              {
+                "code": "DPX3",
+                "name": "Chandler (DPX3) AMZL (550 E Elliot Rd)"
+              },
+              {
+                "code": "DPX5",
+                "name": "Phoenix (DPX5)- Amazon.com"
+              },
+              {
+                "code": "PHX8",
+                "name": "Tolleson (PHX8) AMZL (800 N 75th Ave)"
+              },
+              {
+                "code": "RAZ1",
+                "name": "Phoenix (RAZ1) - Restaurants"
+              },
+              {
+                "code": "RPX1",
+                "name": "South Phoenix (RPX1) - Restaurants"
+              },
+              {
+                "code": "UAZ1",
+                "name": "Sky Harbor (UAZ1)- Prime Now"
+              },
+              {
+                "code": "ZPX1",
+                "name": "Glendale (ZPX1) AMZL (13902 North 59th Avenue)"
+              }
+            ]
+          },
+          {
+            "name": "Pittsburgh",
+            "stations": [
+              {
+                "code": "C165",
+                "name": "Pittsburgh (C165) - Whole Foods"
+              },
+              {
+                "code": "C167",
+                "name": "South Hills (C167) - Whole Foods"
+              },
+              {
+                "code": "C168",
+                "name": "Wexford (C168) - Whole Foods"
+              },
+              {
+                "code": "DPP1",
+                "name": "Sewickley (DPP1)- Amazon.com"
+              },
+              {
+                "code": "PIT5",
+                "name": "Fairywood (PIT5) AMZL (2250 Roswell Dr.)"
+              }
+            ]
+          },
+          {
+            "name": "Portland, ME",
+            "stations": [
+              {
+                "code": "C223",
+                "name": "Portland West Bayside (C223) -"
+              }
+            ]
+          },
+          {
+            "name": "Portland, OR",
+            "stations": [
+              {
+                "code": "C088",
+                "name": "Portland Bridgeport (C088) - Whole Foods"
+              },
+              {
+                "code": "C100",
+                "name": "Portland Hollywood (C100) - Whole Foods"
+              },
+              {
+                "code": "C107",
+                "name": "Portland Tanabourne (C107) - Whole Foods"
+              },
+              {
+                "code": "C238",
+                "name": "Vancouver (C238) -"
+              },
+              {
+                "code": "DPD1",
+                "name": "Guild's Lake (DPD1) AMZL (3610 NW St. Helens Rd.)"
+              },
+              {
+                "code": "ROR1",
+                "name": "Portland (ROR1) - Restaurants"
+              },
+              {
+                "code": "ROR2",
+                "name": "SW Portland (ROR2) - Restaurants"
+              },
+              {
+                "code": "UOR1",
+                "name": "NW Industrial (UOR1)- Prime Now"
+              }
+            ]
+          },
+          {
+            "name": "Providence",
+            "stations": [
+              {
+                "code": "C029",
+                "name": "University (C029) - Whole Foods"
+              },
+              {
+                "code": "C133",
+                "name": "Providence Cranston (C133) - Whole Foods"
+              }
+            ]
+          },
+          {
+            "name": "Raleigh",
+            "stations": [
+              {
+                "code": "C126",
+                "name": "Raleigh Cary (C126) - Whole Foods"
+              },
+              {
+                "code": "C128",
+                "name": "Raleigh North Raleigh (C128) - Whole Foods"
+              },
+              {
+                "code": "C179",
+                "name": "Cary (C179) -"
+              },
+              {
+                "code": "DRT1",
+                "name": "Durham (DRT1)- Amazon.com"
+              },
+              {
+                "code": "UNC2",
+                "name": "Raleigh (UNC2)"
+              }
+            ]
+          },
+          {
+            "name": "Richmond, VA",
+            "stations": [
+              {
+                "code": "C050",
+                "name": "Richmond West Broad Village (C050) - Whole Foods"
+              },
+              {
+                "code": "C210",
+                "name": "Charlottesville Hydraulic Road (C210) -"
+              },
+              {
+                "code": "DRC1",
+                "name": "Richmond (DRC1) AMZL (4101 Carolina Ave)"
+              },
+              {
+                "code": "RVA3",
+                "name": "Richmond (RVA3) - Restaurants"
+              },
+              {
+                "code": "UVA3",
+                "name": "Richmond (UVA3)- Prime Now"
+              }
+            ]
+          },
+          {
+            "name": "Rochester, NY",
+            "stations": [
+              {
+                "code": "DRO1",
+                "name": "Rochester (DRO1)- Amazon.com"
+              }
+            ]
+          },
+          {
+            "name": "Sacramento",
+            "stations": [
+              {
+                "code": "C007",
+                "name": "Roseville (C007) - Whole Foods"
+              },
+              {
+                "code": "C010",
+                "name": "Sacramento Arden Oaks (C010) - Whole Foods"
+              },
+              {
+                "code": "C146",
+                "name": "Sacramento Folsom (C146) - Whole Foods"
+              },
+              {
+                "code": "CCA4",
+                "name": "Sacramento Zoo (CCA4) - Sprouts"
+              },
+              {
+                "code": "DSM1",
+                "name": "West Sacramento (DSM1) AMZL (1000 Riverside Pkwy)"
+              },
+              {
+                "code": "RCA9",
+                "name": "Sacramento (RCA9) Restaurants"
+              },
+              {
+                "code": "UCA9",
+                "name": "Sacramento (UCA9)- Prime Now"
+              }
+            ]
+          },
+          {
+            "name": "San Antonio",
+            "stations": [
+              {
+                "code": "C067",
+                "name": "San Antonio Alamo Heights (C067) - Whole Foods"
+              },
+              {
+                "code": "C203",
+                "name": "San Antonio Vineyard (C203) - Whole Foods"
+              },
+              {
+                "code": "DSX1",
+                "name": "San Antonio (DSX1)- Amazon.com"
+              },
+              {
+                "code": "SAT5",
+                "name": "San Antonio (SAT5) AMZL (1410 S. Callaghan Rd)"
+              },
+              {
+                "code": "UTX5",
+                "name": "San Antonio (UTX5)- Prime Now"
+              }
+            ]
+          },
+          {
+            "name": "San Diego",
+            "stations": [
+              {
+                "code": "C011",
+                "name": "San Diego Hillcrest (C011) - Whole Foods"
+              },
+              {
+                "code": "C012",
+                "name": "La Jolla Village (C012) - Whole Foods"
+              },
+              {
+                "code": "C142",
+                "name": "San Diego Del Mar (C142) - Whole Foods"
+              },
+              {
+                "code": "CCA2",
+                "name": "San Diego University City (CCA2) - Bristol Farms"
+              },
+              {
+                "code": "CCA3",
+                "name": "San Diego Lemon Grove (CCA3) - KegNBottle"
+              },
+              {
+                "code": "DSD1",
+                "name": "Via Esprillo (DSD1) AMZL (16550 Via Esprillo)"
+              },
+              {
+                "code": "DSD2",
+                "name": "Carlsbad (DSD2) AMZL (2777 Loker Avenue West)"
+              },
+              {
+                "code": "DSD3",
+                "name": "National City (DSD3) AMZL (901 Bay marina Drive)"
+              },
+              {
+                "code": "FSD9",
+                "name": "San Diego - Fresh (FSD9)"
+              },
+              {
+                "code": "RCA6",
+                "name": "San Diego (RCA6) - Restaurants"
+              },
+              {
+                "code": "UCA6",
+                "name": "San Diego (UCA6)- Prime Now"
+              }
+            ]
+          },
+          {
+            "name": "San Francisco Bay Area",
+            "stations": [
+              {
+                "code": "C006",
+                "name": "Fremont Mowry (C006) - Whole Foods"
+              },
+              {
+                "code": "C008",
+                "name": "San Mateo (C008) - Whole Foods"
+              },
+              {
+                "code": "C013",
+                "name": "Ygnacio Valley Road (C013) - Whole Foods"
+              },
+              {
+                "code": "C014",
+                "name": "San Francisco Cupertino (C014) - Whole Foods"
+              },
+              {
+                "code": "C015",
+                "name": "San Francisco City College (C015) - Whole Foods"
+              },
+              {
+                "code": "C016",
+                "name": "San Francisco The Castro (C016) - Whole Foods"
+              },
+              {
+                "code": "C017",
+                "name": "Oakland (C017) - Whole Foods"
+              },
+              {
+                "code": "C030",
+                "name": "San Francisco Los Altos (C030) - Whole Foods"
+              },
+              {
+                "code": "C174",
+                "name": "San Francisco Potrero Hill (C174) - Whole Foods"
+              },
+              {
+                "code": "C184",
+                "name": "Berkley Gilman (C184) - Whole Foods"
+              },
+              {
+                "code": "C193",
+                "name": "San Jose Blossom Hill (C193) - Whole Foods"
+              },
+              {
+                "code": "C194",
+                "name": "Santa Rosa Coddingtown Mall (C194) - Whole Foods"
+              },
+              {
+                "code": "C198",
+                "name": "Marin Novato (C198) - Whole Foods"
+              },
+              {
+                "code": "C232",
+                "name": "Dublin (C232) -"
+              },
+              {
+                "code": "DSF3",
+                "name": "North San Jose (DSF3)AMZL 1700 Montague Expressway"
+              },
+              {
+                "code": "DSF4",
+                "name": "San Leandro (DSF4) AMZL (990 Beecher Street)"
+              },
+              {
+                "code": "DSF5",
+                "name": "South San Francisco (DSF5) AMZL (250 Utah Ave)"
+              },
+              {
+                "code": "DSF6",
+                "name": "Richmond (DSF6) AMZL (6015 Giant Rd. Bldg 2)"
+              },
+              {
+                "code": "FCA7",
+                "name": "Sunnyvale - Fresh (FCA7)"
+              },
+              {
+                "code": "FCA8",
+                "name": "Berkeley - Fresh (FCA8)"
+              },
+              {
+                "code": "FJC9",
+                "name": "Brisbane - Fresh (FJC9)"
+              },
+              {
+                "code": "HSF1",
+                "name": "Newark (HSF1) AMZL (38811 Cherry St)"
+              },
+              {
+                "code": "RCA1",
+                "name": "San Francisco (RCA1) - Restaurants"
+              },
+              {
+                "code": "RCA7",
+                "name": "San Jose (RCA7) - Restaurants"
+              },
+              {
+                "code": "RCA8",
+                "name": "Berkeley (RCA8) - Restaurants"
+              },
+              {
+                "code": "UCA1",
+                "name": "San Francisco (UCA1)"
+              },
+              {
+                "code": "UCA7",
+                "name": "Sunnyvale (UCA7)"
+              },
+              {
+                "code": "UCA8",
+                "name": "Berkeley (UCA8)"
+              }
+            ]
+          },
+          {
+            "name": "Savannah",
+            "stations": [
+              {
+                "code": "C224",
+                "name": "Savannah (C224) -"
+              },
+              {
+                "code": "DGE2",
+                "name": "Rincon (DGE2)- Amazon.com"
+              }
+            ]
+          },
+          {
+            "name": "St. Louis",
+            "stations": [
+              {
+                "code": "C135",
+                "name": "St Louis Galleria (C135) - Whole Foods"
+              },
+              {
+                "code": "DLI1",
+                "name": "St. Louis (DLI1)AMZL441 Hazelwood Logistics Ctr Dr"
+              }
+            ]
+          },
+          {
+            "name": "Stockton",
+            "stations": [
+              {
+                "code": "DCK1",
+                "name": "Manteca (DCK1) AMZL (2403 West Louise Avenue)"
+              }
+            ]
+          },
+          {
+            "name": "Tallahassee, FL",
+            "stations": [
+              {
+                "code": "C225",
+                "name": "Tallahassee (C225) -"
+              }
+            ]
+          },
+          {
+            "name": "Tampa-St. Pete",
+            "stations": [
+              {
+                "code": "C113",
+                "name": "Tampa Clearwater (C113) - Whole Foods"
+              },
+              {
+                "code": "C156",
+                "name": "Tampa (C156) - Whole Foods"
+              },
+              {
+                "code": "C231",
+                "name": "Tampa Carrollwood (C231) -"
+              },
+              {
+                "code": "DSR1",
+                "name": "Sarasota (DSR1) AMZL (2906 Corporate Way)"
+              },
+              {
+                "code": "DTP1",
+                "name": "Brandon (DTP1) AMZL (8824 Adamo Drive)"
+              },
+              {
+                "code": "DTP2",
+                "name": "St Petersburg (DTP2) AMZL (9900 18th St N)"
+              },
+              {
+                "code": "RFL3",
+                "name": "Tampa (RFL3) - Restaurants"
+              },
+              {
+                "code": "UFL3",
+                "name": "Tampa (UFL3)- Prime Now"
+              }
+            ]
+          },
+          {
+            "name": "Trenton & Freehold Township",
+            "stations": [
+              {
+                "code": "C034",
+                "name": "Princeton (C034) - Whole Foods"
+              },
+              {
+                "code": "C152",
+                "name": "Marlboro Township (C152) - Whole Foods"
+              },
+              {
+                "code": "C153",
+                "name": "Metuchen (C153) - Whole Foods"
+              }
+            ]
+          },
+          {
+            "name": "Tucson",
+            "stations": [
+              {
+                "code": "C122",
+                "name": "Tucson Oracle (C122) - Whole Foods"
+              },
+              {
+                "code": "DTU1",
+                "name": "Tucson (DTU1)- Amazon.com"
+              },
+              {
+                "code": "OTC1",
+                "name": "Palo Verde (OTC1) AMZL (3881 N. Highway Dr.)"
+              }
+            ]
+          },
+          {
+            "name": "Utah",
+            "stations": [
+              {
+                "code": "C145",
+                "name": "Cottonwood Heights (C145) - Whole Foods"
+              },
+              {
+                "code": "C148",
+                "name": "Trolley Square (C148) - Whole Foods"
+              },
+              {
+                "code": "DUT1",
+                "name": "West VALLEY City (DUT1)AMZL 2291 S Commerce Ctr Dr"
+              }
+            ]
+          },
+          {
+            "name": "Virginia Beach",
+            "stations": [
+              {
+                "code": "C009",
+                "name": "Virginia Beach (C009) - Whole Foods"
+              },
+              {
+                "code": "C239",
+                "name": "Newport News (C239) -"
+              },
+              {
+                "code": "DOR1",
+                "name": "Chesapeake (DOR1) AMZL (1920 Campostella Rd.)"
+              },
+              {
+                "code": "RVA2",
+                "name": "Virginia Beach (RVA2) - Restaurants"
+              },
+              {
+                "code": "UVA2",
+                "name": "Virginia Beach (UVA2)- Prime Now"
+              }
+            ]
+          },
+          {
+            "name": "Wilmington, DE",
+            "stations": [
+              {
+                "code": "DPH4",
+                "name": "New Castle (DPH4)- Amazon.com"
+              }
+            ]
+          },
+          {
+            "name": "Wilmington, NC",
+            "stations": [
+              {
+                "code": "C227",
+                "name": "Wilmington (C227) -"
+              }
+            ]
+          },
+          {
+            "name": "Yonkers/White Plains",
+            "stations": [
+              {
+                "code": "C085",
+                "name": "New York Yonkers (C085) - Whole Foods"
+              },
+              {
+                "code": "C158",
+                "name": "Stamford White Plains (C158) - Whole Foods"
+              },
+              {
+                "code": "DNJ3",
+                "name": "The Bronx (DNJ3) - Amazon.com"
+              },
+              {
+                "code": "FBN1",
+                "name": "Bronx - Fresh (FBN1)"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Europe",
+    "countries": [
+      {
+        "name": "Germany",
+        "cities": [
+          {
+            "name": "Bayern",
+            "stations": [
+              {
+                "code": "DMU1",
+                "name": "Munich (DMU1)"
+              },
+              {
+                "code": "DMU2",
+                "name": "Munich (DMU2)"
+              },
+              {
+                "code": "UDE3",
+                "name": "Munich (UDE3)"
+              }
+            ]
+          },
+          {
+            "name": "Berlin",
+            "stations": [
+              {
+                "code": "DBE1",
+                "name": "Berlin (DBE1)- Amazon.com"
+              },
+              {
+                "code": "DBE2",
+                "name": "Berlin (DBE2)"
+              },
+              {
+                "code": "UDE6",
+                "name": "Berlin (UDE6)- Prime Now"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Spain",
+        "cities": [
+          {
+            "name": "Barcelona",
+            "stations": [
+              {
+                "code": "CES2",
+                "name": "Hospitalet-Dia(CES2)-Prime Now"
+              },
+              {
+                "code": "DCT1",
+                "name": "Martorelles (DCT1) - Amazon.com"
+              },
+              {
+                "code": "DCT2",
+                "name": "Zona Franca (DCT2) - Amazon.com"
+              },
+              {
+                "code": "UES2",
+                "name": "Barcelona (UES2)"
+              },
+              {
+                "code": "UES4",
+                "name": "Barcelona (UES4) - Prime Now"
+              }
+            ]
+          },
+          {
+            "name": "Bilbao",
+            "stations": [
+              {
+                "code": "DQB1",
+                "name": "Bilbao (DQB1) - Amazon.com"
+              }
+            ]
+          },
+          {
+            "name": "Madrid",
+            "stations": [
+              {
+                "code": "CES1",
+                "name": "Las Rozas- Dia (CES1)- Prime Now"
+              },
+              {
+                "code": "CES3",
+                "name": "Coslada- Dia (CES3)- Prime Now"
+              },
+              {
+                "code": "DMA1",
+                "name": "Getafe (DMA1) - Amazon.com"
+              },
+              {
+                "code": "DMA2",
+                "name": "Alcobendas (DMA2) - Amazon.com"
+              },
+              {
+                "code": "DMA3",
+                "name": "Vicalvaro (DMA3) - Amazon.com"
+              },
+              {
+                "code": "UES3",
+                "name": "Coslada (UES3)- Prime Now"
+              }
+            ]
+          },
+          {
+            "name": "Sevilla",
+            "stations": [
+              {
+                "code": "DQA1",
+                "name": "Sevilla (DQA1) - Amazon.com"
+              }
+            ]
+          },
+          {
+            "name": "Valencia",
+            "stations": [
+              {
+                "code": "CVL1",
+                "name": "Maestro Rodrigo- Dia (CVL1)- Prime Now"
+              },
+              {
+                "code": "DQV1",
+                "name": "Paterna (DQV1) - Amazon.com"
+              }
+            ]
+          },
+          {
+            "name": "Zaragoza",
+            "stations": [
+              {
+                "code": "DZG1",
+                "name": "Zaragoza (DZG1) - Amazon.com"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "United Kingdom",
+        "cities": [
+          {
+            "name": "East Midlands",
+            "stations": [
+              {
+                "code": "DNG1",
+                "name": "Bardon Leicester (DNG1) - AMZL"
+              },
+              {
+                "code": "DNN1",
+                "name": "Northampton (DNN1) - AMZL"
+              }
+            ]
+          },
+          {
+            "name": "East of England",
+            "stations": [
+              {
+                "code": "DNR1",
+                "name": "Norwich (DNR1) - AMZL"
+              },
+              {
+                "code": "DPE1",
+                "name": "Peterborough (DPE1) - AMZL"
+              },
+              {
+                "code": "DRM2",
+                "name": "West Thurrock (DRM2) - AMZL"
+              },
+              {
+                "code": "DSS2",
+                "name": "Basildon (DSS2) - AMZL"
+              }
+            ]
+          },
+          {
+            "name": "London",
+            "stations": [
+              {
+                "code": "CUK1",
+                "name": "Camden (CUK1) - Morrisons"
+              },
+              {
+                "code": "CUK2",
+                "name": "Croydon (CUK2) - Morrisons"
+              },
+              {
+                "code": "CUK4",
+                "name": "Stratford (CUK4)"
+              },
+              {
+                "code": "CUK5",
+                "name": "Chingford (CUK5) - Morrisons"
+              },
+              {
+                "code": "DBR1",
+                "name": "Dartford (DBR1) - AMZL"
+              },
+              {
+                "code": "DCR1",
+                "name": "Croydon (DCR1) - AMZL"
+              },
+              {
+                "code": "DHP1",
+                "name": "Hemel Hempstead (DHP1) - AMZL"
+              },
+              {
+                "code": "DIG1",
+                "name": "Enfield (DIG1) - AMZL"
+              },
+              {
+                "code": "DLU1",
+                "name": "Dunstable (DLU1) - AMZL"
+              },
+              {
+                "code": "DXE1",
+                "name": "Bromley by Bow (DXE1) - AMZL"
+              },
+              {
+                "code": "DXN1",
+                "name": "West Drayton (DXN1) - AMZL"
+              },
+              {
+                "code": "NXW2",
+                "name": "Clapham (NXW2) - Exchange Point"
+              },
+              {
+                "code": "NXW3",
+                "name": "Balham (NXW3) - Exchange Point"
+              },
+              {
+                "code": "ULO5",
+                "name": "Welwyn Garden City (ULO5) - PN"
+              },
+              {
+                "code": "ULO6",
+                "name": "Wembley (ULO6) - PN"
+              },
+              {
+                "code": "UUK1",
+                "name": "Bromley by Bow (UUK1) - PN"
+              },
+              {
+                "code": "UUK2",
+                "name": "Wimbledon (UUK2) - PN"
+              }
+            ]
+          },
+          {
+            "name": "London - Scooters",
+            "stations": [
+              {
+                "code": "RUK1",
+                "name": "London NE/Central (RUK1) - Restaurants - Scooters"
+              },
+              {
+                "code": "RUK2",
+                "name": "London Southwest (RUK2) - Restaurants - Scooters"
+              }
+            ]
+          },
+          {
+            "name": "North East",
+            "stations": [
+              {
+                "code": "DNE1",
+                "name": "Sunderland (DNE1) - AMZL"
+              },
+              {
+                "code": "UNW1",
+                "name": "Newcastle - Gateshead (UNW1) - PN"
+              }
+            ]
+          },
+          {
+            "name": "North West",
+            "stations": [
+              {
+                "code": "CMC2",
+                "name": "Manchester (CMC2)-Morrisons"
+              },
+              {
+                "code": "DPR1",
+                "name": "Leyland (DPR1) - AMZL"
+              },
+              {
+                "code": "DWN1",
+                "name": "Knowsley (DWN1) - AMZL"
+              },
+              {
+                "code": "DXM2",
+                "name": "Trafford Manchester (DXM2) - AMZL"
+              },
+              {
+                "code": "ULI1",
+                "name": "Speke-Liverpool (ULI1) - PN"
+              },
+              {
+                "code": "UMC2",
+                "name": "Manchester - Swinton (UMC2) - PN"
+              }
+            ]
+          },
+          {
+            "name": "Northern Ireland",
+            "stations": [
+              {
+                "code": "DBT1",
+                "name": "Carrickfergus (DBT1) - AMZL"
+              },
+              {
+                "code": "DBT2",
+                "name": "Belfast (DBT2) - AMZL"
+              }
+            ]
+          },
+          {
+            "name": "Scotland",
+            "stations": [
+              {
+                "code": "DDD1",
+                "name": "Dundee (DDD1) - AMZL"
+              },
+              {
+                "code": "DEH1",
+                "name": "Edinburgh (DEH1) - AMZL"
+              },
+              {
+                "code": "DXG1",
+                "name": "Motherwell (DXG1) - AMZL"
+              },
+              {
+                "code": "UGL1",
+                "name": "Glasgow (UGL1) - PN"
+              }
+            ]
+          },
+          {
+            "name": "South East",
+            "stations": [
+              {
+                "code": "DBN2",
+                "name": "Littlehampton (DBN2) - AMZL"
+              },
+              {
+                "code": "DME1",
+                "name": "Aylesford (DME1) - AMZL"
+              },
+              {
+                "code": "DRG1",
+                "name": "Theale - Reading (DRG1) - AMZL"
+              },
+              {
+                "code": "DSO1",
+                "name": "Southampton (DSO1) - AMZL"
+              },
+              {
+                "code": "DXW2",
+                "name": "Weybridge (DXW2) - AMZL"
+              },
+              {
+                "code": "NXW9",
+                "name": "Bordon (NXW9) - Exchange Point"
+              },
+              {
+                "code": "ULO1",
+                "name": "Camberley - Frimley (ULO1) - PN"
+              },
+              {
+                "code": "UPO1",
+                "name": "Portsmouth - Fareham (UPO1) - PN"
+              }
+            ]
+          },
+          {
+            "name": "South Wales",
+            "stations": [
+              {
+                "code": "DCF1",
+                "name": "Newport (DCF1) - AMZL"
+              },
+              {
+                "code": "DSA1",
+                "name": "Swansea (DSA1) - AMZL"
+              }
+            ]
+          },
+          {
+            "name": "South West",
+            "stations": [
+              {
+                "code": "DBH1",
+                "name": "Bournemouth Airport (DBH1) - AMZL"
+              },
+              {
+                "code": "DBH2",
+                "name": "Bournemouth Airport (DBH2) - AMZL"
+              },
+              {
+                "code": "DBS2",
+                "name": "Avonmounth (DBS2) - AMZL"
+              },
+              {
+                "code": "DEX1",
+                "name": "Exeter (DEX1) - AMZL"
+              },
+              {
+                "code": "DSN1",
+                "name": "Swindon (DSN1) - AMZL"
+              },
+              {
+                "code": "DTQ1",
+                "name": "Plymouth (DTQ1) - AMZL"
+              },
+              {
+                "code": "NBS1",
+                "name": "Plymouth (NBS1)"
+              },
+              {
+                "code": "NBS2",
+                "name": "Paignton (NBS2)"
+              }
+            ]
+          },
+          {
+            "name": "Surrey",
+            "stations": [
+              {
+                "code": "DRH2",
+                "name": "Redhill (DRH2)"
+              }
+            ]
+          },
+          {
+            "name": "West Midlands",
+            "stations": [
+              {
+                "code": "CUK3",
+                "name": "Birmingham (CUK3)-Morrisons"
+              },
+              {
+                "code": "DOX2",
+                "name": "Banbury (DOX2) - AMZL"
+              },
+              {
+                "code": "DST1",
+                "name": "Stoke (DST1) - AMZL"
+              },
+              {
+                "code": "DWR1",
+                "name": "Worcester (DWR1) - AMZL"
+              },
+              {
+                "code": "DXB1",
+                "name": "Wednesbury Birmingham (DXB1) - AMZL"
+              },
+              {
+                "code": "UUK3",
+                "name": "Erdington Birmingham (UUK3) - PN"
+              }
+            ]
+          },
+          {
+            "name": "Yorkshire and the Humber",
+            "stations": [
+              {
+                "code": "DDN1",
+                "name": "Doncaster (DDN1) - AMZL"
+              },
+              {
+                "code": "DLS2",
+                "name": "Pontefract Leeds (DLS2) - AMZL"
+              },
+              {
+                "code": "DXS1",
+                "name": "Sheffield (DXS1) - AMZL"
+              },
+              {
+                "code": "ULS1",
+                "name": "Leeds (ULS1) - PN"
+              },
+              {
+                "code": "USH1",
+                "name": "Rotherham (USH1) - PN"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
