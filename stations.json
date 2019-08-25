@@ -818,6 +818,22 @@
                 "name": "Los Angeles Venice (C201) - Whole Foods"
               },
               {
+                "code": "C247",
+                "name": "Los Angeles Glendale (C247) - Whole Foods"
+              },
+              {
+                "code": "C248",
+                "name": "South Irvine (C248) - Whole Foods"
+              },
+              {
+                "code": "C249",
+                "name": "Northridge Porter Ranch (C249) - Whole Foods"
+              },
+              {
+                "code": "C265",
+                "name": "Los Angeles West Los Angeles (C265) -"
+              },
+              {
                 "code": "CCA1",
                 "name": "Fairfax (CCA1) - Sprouts285"
               },
