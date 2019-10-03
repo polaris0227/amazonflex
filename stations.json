@@ -68,6 +68,10 @@
                 "name": "Lawrenceville (DAT2)- Amazon.com"
               },
               {
+                "code": "DAT3",
+                "name": "Atlanta (DAT3)- Amazon.com"
+              },
+              {
                 "code": "FGA2",
                 "name": "Bolton - Fresh (FGA2)"
               },
@@ -90,6 +94,10 @@
               {
                 "code": "UGA3",
                 "name": "Lawrenceville (UGA3)- Prime Now"
+              },
+              {
+                "code": "UGA4",
+                "name": "Duluth - Fresh (UGA4)"
               }
             ]
           },
